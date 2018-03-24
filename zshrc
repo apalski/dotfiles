@@ -28,6 +28,8 @@ alias rc="bundle exec rails console"
 alias rs="bundle exec rails server"
 alias td="tail -f log/development.log"
 
+alias fs="bundle exec foreman start"
+
 alias ..="cd .."
 alias ...="cd ../.."
 
